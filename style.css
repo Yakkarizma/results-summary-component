@@ -50,11 +50,11 @@ body{
     width: 800px;
     display: flex;
     justify-content: space-between;
-    box-shadow: var(--Dark-gray-blue) 15px 15px 20px;
+    box-shadow: var(--Dark-gray-blue) 15px 15px 40px;
 }
 
 .result{
-    background: linear-gradient( var(--Light-royal-blue),var(--Light-slate-blue));
+    background: linear-gradient(45deg, var(--Light-royal-blue),var(--Light-slate-blue));
     width: 400px;
     border-radius: 25px;
     text-align: center;
@@ -116,4 +116,31 @@ body{
     background: linear-gradient(45deg, var(--Light-royal-blue),var(--Light-slate-blue));
     border: none;
     cursor: pointer;
+}
+
+.result{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;     
+}
+
+.daire{
+    border-radius: 50%;
+    background-color: var(--Light-royal-blue);
+    margin: 20px;
+    padding: 40px;
+    width:200px;
+    height: 200px;
+}
+
+.result h1{
+    color: var(--White);
+}
+
+.daire h1{
+    font-size: 72px;
+}
+
+.great{
+    margin-bottom: 20px;
 }

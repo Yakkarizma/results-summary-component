@@ -25,6 +25,8 @@ This is a solution to the [Result Summary Component challenge on Frontend Mentor
 - Solution URL: [https://github.com/Yakkarizma/results-summary-component]
 - Live Site URL: [https://yakkarizma.github.io/results-summary-component/]
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup

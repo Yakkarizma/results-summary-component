@@ -22,8 +22,8 @@ This is a solution to the [Result Summary Component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Yakkarizma/results-summary-component)
-- Live Site URL: [Add live site URL here](https://yakkarizma.github.io/results-summary-component/)
+- Solution URL: [https://github.com/Yakkarizma/results-summary-component]
+- Live Site URL: [https://yakkarizma.github.io/results-summary-component/]
 
 ### Built with
 
